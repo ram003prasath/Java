@@ -1,3 +1,13 @@
+// https://repo1.maven.org/maven2/org/apache/xmlrpc/xmlrpc-client/3.1.3/
+
+// https://repo1.maven.org/maven2/org/apache/ws/commons/ws-commons-util/1.0.1/
+
+// https://repo1.maven.org/maven2/org/apache/xmlrpc/xmlrpc-server/3.1.3/
+
+// https://repo1.maven.org/maven2/org/apache/xmlrpc/xmlrpc-common/3.1.3/
+
+// https://repo1.maven.org/maven2/commons-logging/commons-logging/1.2/
+
 import org.apache.xmlrpc.client.XmlRpcClient;
 import org.apache.xmlrpc.client.XmlRpcClientConfigImpl;
 
